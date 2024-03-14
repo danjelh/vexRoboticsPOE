@@ -109,15 +109,15 @@ task rc_auto_loop_task_Controller1(rc_auto_loop_function_Controller1);
 
 // Include the V5 Library
 #include "vex.h"
- //the work of jacob (horsey) and daniel (kryyu) hehehehaw
+ 
 // Allows for easier use of the VEX Library
 using namespace vex;
 
 
 void RunForward(){
   Brain.Screen.print("Is going up");
-  Drivetrain.drive(reverse);
-  Drivetrain.setTurnVelocity(10, rpm);
+  Drivetrain.drive(forward);
+  Drivetrain.setTurnVelocity(65, rpm);
 }
 
 void StopDriveTrain(){
