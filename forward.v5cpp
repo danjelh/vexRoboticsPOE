@@ -101,9 +101,9 @@ task rc_auto_loop_task_Controller1(rc_auto_loop_function_Controller1);
 /*----------------------------------------------------------------------------*/
 /*                                                                            */
 /*    Module:       main.cpp                                                  */
-/*    Author:       {author}                                                  */
-/*    Created:      {date}                                                    */
-/*    Description:  V5 project                                                */
+/*    Author:       Daniel Huang                                                  */
+/*    Created:      3/12/24                                                  */
+/*    Description:  Silly walks project for POE Honors. Coded by Daniel Huang and Jacob Wang                                               */
 /*                                                                            */
 /*----------------------------------------------------------------------------*/
 
